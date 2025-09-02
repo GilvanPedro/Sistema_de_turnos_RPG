@@ -99,9 +99,9 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 **Gilvan Pedro**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
-- Site: [www.seusite.com](https://www.seusite.com)
+- GitHub: [@GilvanPedro](https://github.com/GilvanPedro)
+- LinkedIn: [Gilvan Pedro](www.linkedin.com/in/gilvannp)
+- Site: [www.seusite.com](gilvanpedro.github.io/Portifolio/)
 
 ## 🙌 Agradecimentos
 
