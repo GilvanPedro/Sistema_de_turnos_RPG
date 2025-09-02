@@ -34,6 +34,23 @@
                 <!-- Characters will be added here dynamically -->
             </div>
         </div>
+
+        <!-- Dice Roller Section -->
+        <div class="dice-section">
+            <h2><i class="fas fa-dice"></i> Rolador de Dados</h2>
+            <div class="dice-controls">
+                <button class="btn" onclick="rollDice()">
+                    <i class="fas fa-dice-d20"></i> Rolar D20
+                </button>
+                <div class="dice-options">
+                    <label for="diceCount">Quantidade:</label>
+                    <input type="number" id="diceCount" min="1" max="10" value="1" class="dice-count">
+                </div>
+            </div>
+            <div id="diceResults" class="dice-results">
+                <!-- Dice rolls will appear here -->
+            </div>
+        </div>
     </div>
     <script src="./script.js"></script>
 </body>
