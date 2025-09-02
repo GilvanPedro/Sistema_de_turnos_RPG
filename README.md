@@ -100,8 +100,8 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 **Gilvan Pedro**
 
 - GitHub: [@GilvanPedro](https://github.com/GilvanPedro)
-- LinkedIn: [Gilvan Pedro](www.linkedin.com/in/gilvannp)
-- Site: [www.seusite.com](gilvanpedro.github.io/Portifolio/)
+- LinkedIn: [Gilvan Pedro](https://www.linkedin.com/in/gilvannp)
+- Site: [Portifólio](https://gilvanpedro.github.io/Portifolio)
 
 ## 🙌 Agradecimentos
 
