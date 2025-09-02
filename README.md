@@ -1,7 +1,7 @@
 # 🎲 RPG Turn Tracker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/rpg-turn-tracker?style=social)](https://github.com/yourusername/rpg-turn-tracker/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/rpg-turn-tracker?style=social)](https://github.com/GilvanPedro/rpg-turn-tracker/stargazers)
 
 Um sistema de gerenciamento de turnos para RPG de mesa moderno e responsivo, desenvolvido com HTML5, CSS3 e JavaScript puro. Gerencie a iniciativa da sua campanha e role dados de forma interativa e visualmente atraente.
 
