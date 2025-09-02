@@ -5,7 +5,7 @@
 
 Um sistema de gerenciamento de turnos para RPG de mesa moderno e responsivo, desenvolvido com HTML5, CSS3 e JavaScript puro. Gerencie a iniciativa da sua campanha de forma fácil e intuitiva.
 
-![Screenshot do RPG Turn Tracker](https://via.placeholder.com/800x500/8B4513/FFFFFF?text=RPG+Turn+Tracker)
+![Screenshot do RPG Turn Tracker](https://media.discordapp.net/attachments/1170071946579419228/1412446135037071394/turnos_imagem.png?ex=68b85278&is=68b700f8&hm=f1228b9158f0c20b6f75ef6560bb25176403c92d3b2baa63ca2cd93e0af5117b&=&format=webp&quality=lossless&width=1161&height=977)
 
 ## 🌟 Recursos
 
