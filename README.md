@@ -3,9 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/rpg-turn-tracker?style=social)](https://github.com/yourusername/rpg-turn-tracker/stargazers)
 
-Um sistema de gerenciamento de turnos para RPG de mesa moderno e responsivo, desenvolvido com HTML5, CSS3 e JavaScript puro. Gerencie a iniciativa da sua campanha de forma fácil e intuitiva.
-
-![Screenshot do RPG Turn Tracker](https://media.discordapp.net/attachments/1170071946579419228/1412446135037071394/turnos_imagem.png?ex=68b85278&is=68b700f8&hm=f1228b9158f0c20b6f75ef6560bb25176403c92d3b2baa63ca2cd93e0af5117b&=&format=webp&quality=lossless&width=1161&height=977)
+Um sistema de gerenciamento de turnos para RPG de mesa moderno e responsivo, desenvolvido com HTML5, CSS3 e JavaScript puro. Gerencie a iniciativa da sua campanha e role dados de forma interativa e visualmente atraente.
 
 ## 🌟 Recursos
 
@@ -14,6 +12,8 @@ Um sistema de gerenciamento de turnos para RPG de mesa moderno e responsivo, des
 - 🖱️ Interface de arrastar e soltar intuitiva
 - 🎨 Design temático de RPG responsivo
 - 🎭 Destaque visual para o personagem atual
+- 🎲 Rolador de dados D20 interativo
+- 🎯 Feedback visual para resultados altos e baixos
 - 📱 Totalmente responsivo para desktop e dispositivos móveis
 - ⚡ Leve e rápido, sem dependências externas
 
@@ -22,6 +22,7 @@ Um sistema de gerenciamento de turnos para RPG de mesa moderno e responsivo, des
 - `Arrastar` - Reorganize a ordem dos personagens
 - `×` - Remove um personagem
 - `Próximo Turno` - Avança para o próximo personagem
+- `Rolar D20` - Rola um ou mais dados de 20 lados
 
 ## 🚀 Começando
 
@@ -39,11 +40,26 @@ Um sistema de gerenciamento de turnos para RPG de mesa moderno e responsivo, des
 
 Ou simplesmente faça o download dos arquivos e abra o `index.html` diretamente.
 
+## 🎲 Sistema de Dados
+
+### 🎯 Resultados dos Dados
+- **20 (Crítico)**: Dado brilha em verde com efeito especial
+- **15-19**: Dado fica verde (acerto alto)
+- **6-14**: Dado padrão (cinza)
+- **2-5**: Dado fica vermelho (acerto baixo)
+- **1 (Falha Crítica)**: Dado brilha em vermelho com efeito especial
+
+### 🎮 Como Usar o Rolador
+1. Escolha quantos dados deseja rolar (1-10)
+2. Clique em "Rolar D20"
+3. Assista à animação e veja os resultados
+4. As cores indicam a qualidade do resultado
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Frontend**
   - HTML5
-  - CSS3 (com variáveis CSS e Flexbox)
+  - CSS3 (com variáveis CSS, Flexbox e animações)
   - JavaScript Vanilla (ES6+)
   - Font Awesome 6.0 para ícones
   - Google Fonts (Cinzel e MedievalSharp)
@@ -94,6 +110,9 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 - [ ] Temporizador de rodada
 - [ ] Modo escuro/claro
 - [ ] Exportar/Importar lista
+- [ ] Mais tipos de dados (D4, D6, D8, D10, D12, D100)
+- [ ] Sons personalizados para diferentes resultados
+- [ ] Estatísticas de rolagens
 
 ## 👨‍💻 Autor
 
